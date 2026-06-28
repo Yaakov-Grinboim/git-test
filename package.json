@@ -1,0 +1,24 @@
+{
+  "name": "branches_exercises",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000i\u0000t\u0000-\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaakov-Grinboim/git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yaakov-Grinboim/git-test/issues"
+  },
+  "homepage": "https://github.com/Yaakov-Grinboim/git-test#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
